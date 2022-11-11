@@ -1,0 +1,4 @@
+sqlite app.db
+( acc_id text primary key,
+name text,
+balance_amt int);
